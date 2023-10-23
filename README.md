@@ -1,3 +1,8 @@
+# About Me
+Taiwanese  
+TFG111th | NTU MATH | Software Engineers in Medical Industry  
+language: python | typescript | go
+
 # What You Can Find Here
 
 ## BackEnd
