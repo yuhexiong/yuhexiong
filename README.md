@@ -1,6 +1,6 @@
 # About Me
 Taiwanese  
-TFG111th | NTU MATH | Software Engineers in Medical Industry  
+TFG111th | NTU MATH | Software Engineer in Medical Industry  
 language: python | typescript | go  
 **[My LeetCode(600+ Problems Have Been Solved)](https://leetcode.com/xiong1998/)**
 
