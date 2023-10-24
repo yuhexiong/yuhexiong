@@ -17,9 +17,11 @@
 - **Go - [ User Api](https://github.com/yuhexiong/user-api-golang) (mongodb/testing/error handling)**
 - **Python/Django - [Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error handling)**
 
+## Machine Learning []()
+- **Python/Logistic Regression - [Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
 
 ## Deep Learning []()
-- **Python/CNN - [Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow)**
+- **Python/CNN - [Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation)**
 
 ## Web Crawling []()
 - **Python - [Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
