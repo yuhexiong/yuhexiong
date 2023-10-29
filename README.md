@@ -14,6 +14,7 @@
 - **TypeScript - [Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (express/moment)**
 - **TypeScript - [Http File Api](https://github.com/yuhexiong/http-file-api-typescript) (express/file)**
 - **TypeScript - [Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) (mariadb/express/testing)**
+- **TypeScript - [Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/express/cronJob/auto generate swagger)**
 - **Go - [ User Api](https://github.com/yuhexiong/user-api-golang) (mongodb/fiber/testing/error handling)**
 - **Python/Django - [Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/django/error handling)**
 
