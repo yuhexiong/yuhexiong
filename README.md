@@ -3,8 +3,13 @@
 **TFG111th | NTU MATH**  
 **Software Engineer in Medical Industry**  
 
-**Language: python | typescript | go | java**  
-**Database: mysql | mariadb | mongodb**  
+**Mathematics: Linear Algebra, Advanced Calculus, Statistics, Probability theory**  
+**Language: Python, R, TypeScript, Go, Java**  
+**DataBase: MySQL, MariaDB, MongoDB**  
+**System: Linux, Hadoop, Spark, Docker, Git**  
+**Model: Scikit Learn, Pytorch, Tensorflow**  
+**Data Visualization: Tableau**  
+**Web: Flask, Django, Node.js, Gin**  
 **[My LeetCode(600+ Problems Have Been Solved)](https://leetcode.com/xiong1998/)**
 
 
