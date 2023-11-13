@@ -23,7 +23,7 @@
 - **[Go/Fiber - User Api](https://github.com/yuhexiong/user-api-golang) (mongodb/testing/error handling)**
 - **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error handling)**
 
-### FullEnd
+### Full Stack
 - **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/cronJob/auto generate swagger)**
 - **[JavaScript/Vue3 - Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) (pie chart)**
 
