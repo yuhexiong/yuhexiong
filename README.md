@@ -37,6 +37,7 @@
 ### Web Crawling
 - **[Python - Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
 - **[Python - PPT Gossiping Crawling](https://github.com/yuhexiong/ppt-gossiping-crawling-python) (requests)**
+- **[Python - Project Gutenberg Crawling](https://github.com/yuhexiong/project-gutenberg-crawling-python) (requests/regex)**
 
 ### Others
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
