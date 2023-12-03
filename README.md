@@ -27,6 +27,7 @@
 ### Full Stack
 - **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/cronJob)**
 - **[JavaScript/Vue3 - Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) (pie chart)**
+- **[Python/Flask - Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python) (map)**
 
 ### Machine Learning
 - **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
