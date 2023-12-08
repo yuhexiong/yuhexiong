@@ -1,6 +1,6 @@
-**Language: Python, R, TypeScript, Go, Java | Data Visualization: Tableau**  
-**DataBase: MySQL, MariaDB, MongoDB | Web: Flask, Django, Node.js, Gin**  
-**System: Linux, Hadoop, Spark, Docker | Model: Scikit Learn, Pytorch, Tensorflow**  
+**Python, R, TypeScript, Go, Java, Flask, Django, Node.js, Gin**  
+**MySQL, MariaDB, MongoDB, Scikit Learn, Pytorch, Tensorflow**  
+**Linux, Hadoop, Spark, Docker, Tableau**  
 
 <div> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,7 +12,7 @@
 </a>
 </div>
 
-## Repository
+## Projects
 
 ### BackEnd
 - **[TypeScript/Express - Http File Api](https://github.com/yuhexiong/http-file-api-typescript) (file)**
