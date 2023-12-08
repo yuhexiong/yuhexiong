@@ -1,21 +1,17 @@
-## About Me
-**Taiwanese | TFG111th | NTU MATH**  
-**Software Engineer in Medical Industry**  
-**[My LeetCode(650+ Problems Have Been Solved)](https://leetcode.com/xiong1998/)**
+## Coding Overview
+**Language: Python, R, TypeScript, Go, Java | Data Visualization: Tableau**  
+**DataBase: MySQL, MariaDB, MongoDB | Web: Flask, Django, Node.js, Gin**  
+**System: Linux, Hadoop, Spark, Docker | Model: Scikit Learn, Pytorch, Tensorflow**  
 
-## GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhexiong&rank_icon=github&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-
-## Skills
-**Mathematics: Linear Algebra, Advanced Calculus, Statistics, Probability Theory**  
-**Language: Python, R, TypeScript, Go, Java**  
-**DataBase: MySQL, MariaDB, MongoDB**  
-**System: Linux, Hadoop, Spark, Docker, Git**  
-**Model: Scikit Learn, Pytorch, Tensorflow**  
-**Data Visualization: Tableau**  
-**Web: Flask, Django, Node.js, Gin**  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhexiong&layout=compact)
+<div> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=259 src="https://github-readme-stats.vercel.app/api?username=yuhexiong&rank_icon=github&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&exclude_repo=github-readme-stats&theme=slateorange" alt="Xiong's Github stats" />
+</a>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=slateorange" alt="Xiong's Language stats" />
+</a>
+</div>
 
 ## What You Can Find Here
 
