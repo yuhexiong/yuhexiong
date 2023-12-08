@@ -8,7 +8,7 @@
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=slateorange" alt="Xiong's Language stats" />
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=12&size_weight=0.2&count_weight=0.8&hide_border=true&role=owner,collaborator&theme=slateorange" alt="Xiong's Language stats" />
 </a>
 </div>
 
