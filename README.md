@@ -12,7 +12,7 @@
 
 **[My LeetCode(650+ Problems Have Been Solved)](https://leetcode.com/xiong1998/)**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhexiong&rank_icon=github&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhexiong&rank_icon=github&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhexiong&layout=compact)
 
 ## What You Can Find Here
