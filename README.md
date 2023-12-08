@@ -1,7 +1,12 @@
 ## About Me
 **Taiwanese | TFG111th | NTU MATH**  
 **Software Engineer in Medical Industry**  
+**[My LeetCode(650+ Problems Have Been Solved)](https://leetcode.com/xiong1998/)**
 
+## GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhexiong&rank_icon=github&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+
+## Skills
 **Mathematics: Linear Algebra, Advanced Calculus, Statistics, Probability Theory**  
 **Language: Python, R, TypeScript, Go, Java**  
 **DataBase: MySQL, MariaDB, MongoDB**  
@@ -10,9 +15,6 @@
 **Data Visualization: Tableau**  
 **Web: Flask, Django, Node.js, Gin**  
 
-**[My LeetCode(650+ Problems Have Been Solved)](https://leetcode.com/xiong1998/)**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhexiong&rank_icon=github&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhexiong&layout=compact)
 
 ## What You Can Find Here
