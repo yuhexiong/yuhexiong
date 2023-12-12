@@ -28,6 +28,7 @@
 
 ### Machine Learning
 - **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
+- **[Python/XGBRegressor - Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) (sklearn/xgbRegressor)**
 
 ### Deep Learning
 - **[Python/CNN - Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation)**
