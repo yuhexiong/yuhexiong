@@ -41,4 +41,4 @@
 
 ### Others
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
-- **[C++/Python - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
+- **[C++/Python/TypeScript - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
