@@ -4,13 +4,15 @@
 
 <div> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=240 src="https://github-readme-stats.vercel.app/api?username=yuhexiong&rank_icon=github&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=slateorange" alt="Xiong's Github stats" />
+<img height=240 src="https://github-readme-stats.vercel.app/api?username=yuhexiong&rank_icon=github&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=vision-friendly-dark" alt="Xiong's Github stats" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=240 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&hide=jupyter%20notebook&role=owner,collaborator&theme=slateorange" alt="Xiong's Language stats" />
+<img height=240 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&hide=jupyter%20notebook&role=owner,collaborator&theme=vision-friendly-dark" alt="Xiong's Language stats" />
 </a>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuhexiong&title=Repositories,Commits,Experience&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Projects
 
