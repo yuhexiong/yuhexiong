@@ -30,7 +30,8 @@
 - **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
 - **[Python/Decision Tree - Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python) (sklearn/decision tree)**
 - **[Python/XGBRegressor - Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) (xgbRegressor/grid search cv)**
-- **[Python/Random Forest - Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python) (random forest)**
+- **[Python/Random Forest - Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python) (sklearn/random forest)**
+- **[Python/XGBRegressor & LightGBMRegressor - House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python) (xgbRegressor/lightGBMRegressor)**
 
 ### Deep Learning
 - **[Python/CNN - Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation)**
