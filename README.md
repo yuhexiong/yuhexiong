@@ -3,11 +3,11 @@
 <div> 
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height=210 src="https://streak-stats.demolab.com/?user=yuhexiong&theme=onedark-duo" alt="streak-stats" />
+    <img height=190 src="https://streak-stats.demolab.com/?user=yuhexiong&theme=onedark-duo" alt="streak-stats" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=210 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&role=owner,collaborator&theme=shadow_blue" alt="Xiong's Language stats" />
+    <img height=190 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&role=owner,collaborator&theme=shadow_blue" alt="Xiong's Language stats" />
   </a>
 
 </div>
