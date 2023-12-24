@@ -43,6 +43,14 @@
 - **[Python - Project Gutenberg Crawling](https://github.com/yuhexiong/project-gutenberg-crawling-python) (requests/regex)**
 - **[Python - Youtube Crawling](https://github.com/yuhexiong/youtube-crawling-python) (selenium/yt-dlp)**
 
-### Others
+### Tools
+
+- **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
+
+### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
 - **[C++/Python/TypeScript - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
+
+## LeetCode
+
+[![image](https://github.com/yuhexiong/yuhexiong/blob/main/image/leetCode-2023-12-22.png)](https://leetcode.com/xiong1998/)
