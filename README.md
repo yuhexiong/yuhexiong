@@ -46,6 +46,7 @@
 ### Tools
 
 - **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
+- **[C++ - Calculator](https://github.com/yuhexiong/calculator-cpp)**
 
 ### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
