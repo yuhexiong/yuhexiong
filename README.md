@@ -16,6 +16,7 @@
 ## Projects
 
 ### BackEnd
+- **[TypeScript/Express - Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (moment)**
 - **[TypeScript/Express - Http File Api](https://github.com/yuhexiong/http-file-api-typescript) (file)**
 - **[TypeScript/Express - Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) (mariadb/testing)**
 - **[TypeScript/Express - Hospital Register Api](https://github.com/yuhexiong/hospital-register-api-typescript) (mariadb)**
@@ -48,6 +49,7 @@
 - **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
 - **[C++ - Calculator](https://github.com/yuhexiong/calculator-cpp)**
 - **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
+- **[C - Prime Number](https://github.com/yuhexiong/prime-number-c)**
 
 ### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
