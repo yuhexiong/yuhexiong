@@ -47,6 +47,7 @@
 
 - **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
 - **[C++ - Calculator](https://github.com/yuhexiong/calculator-cpp)**
+- **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
 
 ### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
@@ -54,4 +55,4 @@
 
 ## LeetCode
 
-[![image](https://github.com/yuhexiong/yuhexiong/blob/main/image/leetCode-2023-12-24.png)](https://leetcode.com/xiong1998/)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=xiong1998)](https://github.com/KnlnKS/leetcode-stats)
