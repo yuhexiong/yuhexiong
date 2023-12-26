@@ -20,11 +20,11 @@
 - **[TypeScript/Express - Http File Api](https://github.com/yuhexiong/http-file-api-typescript) (file)**
 - **[TypeScript/Express - Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) (mariadb/testing)**
 - **[TypeScript/Express - Hospital Register Api](https://github.com/yuhexiong/hospital-register-api-typescript) (mariadb)**
-- **[Go/Fiber - User Api](https://github.com/yuhexiong/user-api-golang) (mongodb/testing/error handling)**
-- **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error handling)**
+- **[Go/Fiber - User Api](https://github.com/yuhexiong/user-api-golang) (mongodb/testing/error code)**
+- **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error code)**
 
 ### Full Stack
-- **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/cronJob)**
+- **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/cronJob/error handling)**
 - **[JavaScript/Vue3 - Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) (pie chart)**
 - **[Python/Flask - Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python) (map)**
 
