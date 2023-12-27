@@ -36,7 +36,8 @@
 - **[Python/XGBRegressor & LightGBMRegressor - House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python) (xgbRegressor/lightGBMRegressor)**
 
 ### Deep Learning
-- **[Python/CNN - Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation)**
+- **[Python/CNN - Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation/cnn)**
+- **[Python/CNN/ResNet50 - Cat And Dog Classification](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python) (tensorflow/data augmentation/cnn/resNet50)**
 
 ### Web Crawling
 - **[Python - Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
