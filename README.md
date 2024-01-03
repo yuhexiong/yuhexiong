@@ -34,6 +34,7 @@
 - **[Python/XGBRegressor - Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) (xgbRegressor/grid search cv)**
 - **[Python/Random Forest - Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python) (sklearn/random forest)**
 - **[Python/XGBRegressor & LightGBMRegressor - House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python) (xgbRegressor/lightGBMRegressor)**
+- **[Python/Support Vector Classification - Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python) (support vector classification)**
 
 ### Deep Learning
 - **[Python/CNN - Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation/cnn)**
