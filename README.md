@@ -55,7 +55,7 @@
 
 ### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
-- **[C++/Python/TypeScript - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
+- **[C++/Python/TypeScript/Go - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
 
 ## LeetCode
 
