@@ -48,10 +48,10 @@
 
 ### Tools
 
+- **[C - Prime Number](https://github.com/yuhexiong/prime-number-c)**
 - **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
 - **[C++ - Calculator](https://github.com/yuhexiong/calculator-cpp)**
 - **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
-- **[C - Prime Number](https://github.com/yuhexiong/prime-number-c)**
 
 ### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
