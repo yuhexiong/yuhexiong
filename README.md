@@ -53,7 +53,7 @@
 - **[C++ - Calculator](https://github.com/yuhexiong/calculator-cpp)**
 - **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
 - **[HTML - Taiwan City District Selector](https://github.com/yuhexiong/taiwan-city-district-selector-html)**
-- 
+
 ### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
 - **[C++/Python/TypeScript/Go - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
