@@ -1,9 +1,9 @@
-## Github Stats
+## Coding Stats
 
 <div> 
 
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height=170 src="https://streak-stats.demolab.com/?user=yuhexiong&theme=default" alt="streak-stats" />
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+    <img height=170 src="https://leetcode-stats-six.vercel.app/?username=xiong1998" alt="KnlnKS's LeetCode stats" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,8 +13,10 @@
 </div>
 
 
-## Projects
+<details>
 
+  <summary><h2>Projects</h2></summary>
+  
 ### BackEnd
 - **[TypeScript/Express - Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (moment)**
 - **[TypeScript/Express - Http File Api](https://github.com/yuhexiong/http-file-api-typescript) (file)**
@@ -58,6 +60,4 @@
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
 - **[C++/Python/TypeScript/Go - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
 
-## LeetCode
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=xiong1998)](https://github.com/KnlnKS/leetcode-stats)
+</details>
