@@ -23,6 +23,7 @@
 - **[TypeScript/Express - Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) (mariadb/testing)**
 - **[TypeScript/Express - Hospital Register Api](https://github.com/yuhexiong/hospital-register-api-typescript) (mariadb)**
 - **[Go/Fiber - User Api](https://github.com/yuhexiong/user-api-golang) (mongodb/testing/error code)**
+- **[Go/Gin - Permission Api](https://github.com/yuhexiong/permission-api-golang) (mongodb/error code/viper/login/permission)**
 - **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error code)**
 
 ### Full Stack
