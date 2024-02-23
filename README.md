@@ -16,7 +16,7 @@
 <details>
 
   <summary><h2>Projects</h2></summary>
-  
+
 ### BackEnd
 - **[TypeScript/Express - Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (moment)**
 - **[TypeScript/Express - Http File Api](https://github.com/yuhexiong/http-file-api-typescript) (file)**
@@ -25,6 +25,9 @@
 - **[Go/Fiber - User Api](https://github.com/yuhexiong/user-api-golang) (mongodb/testing/error code)**
 - **[Go/Gin - Permission Api](https://github.com/yuhexiong/permission-api-golang) (mongodb/error code/viper/login/permission)**
 - **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error code)**
+
+### FrontEnd
+- **[TypeScript/Vue3 - Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) (element plus)**
 
 ### Full Stack
 - **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/cronJob/error handling)**
