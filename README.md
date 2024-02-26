@@ -1,3 +1,5 @@
+**Full Stack Developer & Data Scientist, primarily using Python. At work, as for BackEnd have written TypeScript and now using Go, for FrontEnd, have handled Vue and React. And for data use Java for Flink and Spark previously. Forcing on learning AI models and applications.**
+
 ## Coding Stats
 
 <div> 
@@ -20,8 +22,8 @@
 ### BackEnd
 - **[TypeScript/Express - Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (moment)**
 - **[TypeScript/Express - Http File Api](https://github.com/yuhexiong/http-file-api-typescript) (file)**
-- **[TypeScript/Express - Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) (mariadb/testing)**
-- **[TypeScript/Express - Hospital Register Api](https://github.com/yuhexiong/hospital-register-api-typescript) (mariadb)**
+- **[TypeScript/Express - Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) (mariadb/typeorm/testing)**
+- **[TypeScript/Express - Hospital Register Api](https://github.com/yuhexiong/hospital-register-api-typescript) (mariadb/typeorm)**
 - **[Go/Fiber - User Api](https://github.com/yuhexiong/user-api-golang) (mongodb/testing/error code)**
 - **[Go/Gin - Permission Api](https://github.com/yuhexiong/permission-api-golang) (mongodb/error code/viper/login/permission)**
 - **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error code)**
@@ -30,7 +32,7 @@
 - **[TypeScript/Vue3 - Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) (element plus)**
 
 ### Full Stack
-- **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/cronJob/error handling)**
+- **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/typeorm/cronJob/error handling)**
 - **[JavaScript/Vue3 - Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) (pie chart)**
 - **[Python/Flask - Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python) (map)**
 
