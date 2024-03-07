@@ -17,11 +17,11 @@
 </div>
 
 
+<h2>Projects</h2>
 <details>
+  <summary><b>BackEnd/FrontEnd/Full Stack/Machine Learning/Deep Learning/Web Crawling/Tools/Notes</b></summary>
 
-  <summary><h2>Projects</h2></summary>
-
-### BackEnd
+#### BackEnd
 - **[TypeScript/Express - Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (moment)**
 - **[TypeScript/Express - Http File Api](https://github.com/yuhexiong/http-file-api-typescript) (file)**
 - **[TypeScript/Express - Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) (mariadb/typeorm/testing)**
@@ -30,15 +30,15 @@
 - **[Go/Gin - Permission Api](https://github.com/yuhexiong/permission-api-golang) (mongodb/error code/viper/login/permission)**
 - **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error code)**
 
-### FrontEnd
+#### FrontEnd
 - **[TypeScript/Vue3 - Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) (element plus)**
 
-### Full Stack
+#### Full Stack
 - **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/typeorm/cronJob/error handling)**
 - **[JavaScript/Vue3 - Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) (pie chart)**
 - **[Python/Flask - Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python) (map)**
 
-### Machine Learning
+#### Machine Learning
 - **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
 - **[Python/Decision Tree - Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python) (sklearn/decision tree)**
 - **[Python/XGBRegressor - Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) (xgbRegressor/grid search cv)**
@@ -46,17 +46,17 @@
 - **[Python/XGBRegressor & LightGBMRegressor - House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python) (xgbRegressor/lightGBMRegressor)**
 - **[Python/Support Vector Classification - Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python) (support vector classification)**
 
-### Deep Learning
+#### Deep Learning
 - **[Python/CNN - Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation/cnn)**
 - **[Python/CNN/ResNet50 - Cat And Dog Classification](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python) (tensorflow/data augmentation/cnn/resNet50)**
 
-### Web Crawling
+#### Web Crawling
 - **[Python - Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
 - **[Python - PTT Gossiping Crawling](https://github.com/yuhexiong/ptt-gossiping-crawling-python) (requests)**
 - **[Python - Project Gutenberg Crawling](https://github.com/yuhexiong/project-gutenberg-crawling-python) (requests/regex)**
 - **[Python - Youtube Crawling](https://github.com/yuhexiong/youtube-crawling-python) (selenium/yt-dlp)**
 
-### Tools
+#### Tools
 
 - **[C - Prime Number](https://github.com/yuhexiong/prime-number-c)**
 - **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
@@ -64,7 +64,7 @@
 - **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
 - **[HTML - Taiwan City District Selector](https://github.com/yuhexiong/taiwan-city-district-selector-html)**
 
-### Notes
+#### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
 - **[SQL - Command DDL/DML/DCL/TCL](https://github.com/yuhexiong/ddl-dml-dcl-tcl-commands-sql)**
 - **[C++/Python/TypeScript/Go - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
