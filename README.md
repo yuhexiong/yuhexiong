@@ -1,4 +1,4 @@
-**Full Stack Developer & Data Scientist, primarily using Python.**  
+**Full Stack Developer & Data Engineer, primarily using Python.**  
 **At work, as for BackEnd have written TypeScript and now using Go, for FrontEnd, have handled Vue and React. And for data use Java for Flink and Spark previously.**  
 **Forcing on learning AI models and conducting research in Natural Language Processing**
 
