@@ -1,6 +1,6 @@
 **Full Stack Developer & Data Engineer, primarily using Python.**  
 **At work, as for BackEnd have written TypeScript and now using Go, for FrontEnd, have handled Vue and React. And for data use Java for Flink and Spark previously.**  
-**Forcing on learning AI models and conducting research in Natural Language Processing**
+**Forcing on learning AI models and conducting research in Natural Language Processing.**
 
 ## Coding Stats
 
@@ -64,7 +64,7 @@
 - **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
 - **[HTML - Taiwan City District Selector](https://github.com/yuhexiong/taiwan-city-district-selector-html)**
 - **[JavaScript - Stream File Request](https://github.com/yuhexiong/stream-file-request-javascript)**
-- 
+
 #### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
 - **[SQL - Command DDL/DML/DCL/TCL](https://github.com/yuhexiong/ddl-dml-dcl-tcl-commands-sql)**
