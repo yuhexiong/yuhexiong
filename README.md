@@ -4,9 +4,13 @@
 
 <div> 
 
-  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
-    <img height=170 src="https://leetcard.jacoblin.cool/xiong1998" alt="LeetCode stats" />
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+    <img height=170 src="https://leetcode-stats-six.vercel.app/?username=xiong1998" alt="KnlnKS's LeetCode stats" />
   </a>
+
+  <!-- <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+    <img height=170 src="https://leetcard.jacoblin.cool/xiong1998" alt="LeetCode stats" />
+  </a> -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=170 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=10&size_weight=0.75&count_weight=0.25&hide=jupyter%20notebook&role=owner,collaborator&theme=graywhite" alt="Xiong's Language stats" />
