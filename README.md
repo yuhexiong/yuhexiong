@@ -70,6 +70,6 @@
 #### Notes
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
 - **[SQL - Command DDL/DML/DCL/TCL](https://github.com/yuhexiong/ddl-dml-dcl-tcl-commands-sql)**
-- **[C++/Python/TypeScript/Go - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
+- **[C++/Python/TypeScript/Go/Java - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
 
 </details>
