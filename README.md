@@ -52,6 +52,9 @@
 - **[Python/CNN - Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation/cnn)**
 - **[Python/CNN/ResNet50 - Cat And Dog Classification](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python) (tensorflow/data augmentation/cnn/resNet50)**
 
+#### Natural Language Processing
+- **[Python/Roberta - Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-roberta-nlp-python) (finetune/chinese)**
+
 #### Web Crawling
 - **[Python - Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
 - **[Python - PTT Gossiping Crawling](https://github.com/yuhexiong/ptt-gossiping-crawling-python) (requests)**
