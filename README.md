@@ -21,7 +21,7 @@
 
 <h2>Projects</h2>
 <details>
-  <summary><b>BackEnd/FrontEnd/Full Stack/Machine Learning/Deep Learning/Web Crawling/Tools/Notes</b></summary>
+  <summary><b>BackEnd/FrontEnd/Full Stack/Machine Learning/Deep Learning/Natural Language Processing/Web Crawling/Tools/Notes</b></summary>
 
 #### BackEnd
 - **[TypeScript/Express - Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (moment)**
@@ -53,7 +53,7 @@
 - **[Python/CNN/ResNet50 - Cat And Dog Classification](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python) (tensorflow/data augmentation/cnn/resNet50)**
 
 #### Natural Language Processing
-- **[Python/Roberta - Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-roberta-nlp-python) (finetune/chinese)**
+- **[Python/Roberta - Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-binary-classification-roberta-nlp-python) (finetune/chinese)**
 
 #### Web Crawling
 - **[Python - Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
