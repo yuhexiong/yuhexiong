@@ -54,6 +54,7 @@
 
 #### Natural Language Processing
 - **[Python/Roberta - Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-binary-classification-roberta-nlp-python) (finetune/chinese)**
+- **[Python/Latent Dirichlet Allocation - Topic Modeling](https://github.com/yuhexiong/topic-modeling-LatentDirichletAllocation-nlp-python) (word cloud)**
 
 #### Web Crawling
 - **[Python - Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
