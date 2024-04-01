@@ -19,9 +19,8 @@
 </div>
 
 
-<h2>Projects</h2>
 <details>
-  <summary><b>BackEnd/FrontEnd/Full Stack/Machine Learning/Deep Learning/Natural Language Processing/Web Crawling/Tools/Notes</b></summary>
+  <summary><h2>Projects</h2></summary>
 
 #### BackEnd
 - **[TypeScript/Express - Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (moment)**
