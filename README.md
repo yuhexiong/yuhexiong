@@ -33,6 +33,7 @@
 
 #### FrontEnd
 - **[TypeScript/Vue3 - Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) (element plus)**
+- **[TypeScript/React - Bmi Calculator Web](https://github.com/yuhexiong/bmi-calculator-web-react-typescript)**
 
 #### Full Stack
 - **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/typeorm/cronJob/error handling)**
