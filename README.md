@@ -53,8 +53,9 @@
 - **[Python/CNN/ResNet50 - Cat And Dog Classification](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python) (tensorflow/data augmentation/cnn/resNet50)**
 
 #### Natural Language Processing
-- **[Python/Roberta - Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-binary-classification-roberta-nlp-python) (finetune/chinese)**
 - **[Python/Latent Dirichlet Allocation - Topic Modeling](https://github.com/yuhexiong/topic-modeling-LatentDirichletAllocation-nlp-python) (word cloud)**
+- **[Python/CBOW - Word2Vec And PCA](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python) (pca/kmeans)**
+- **[Python/Roberta - Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-binary-classification-roberta-nlp-python) (finetune/chinese)**
 
 #### Web Crawling
 - **[Python - Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
