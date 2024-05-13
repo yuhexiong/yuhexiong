@@ -43,7 +43,7 @@
 
 #### Data Pipeline
 - **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-datapipeline-flink-java) (kafka/Doris/mongoDB)**
-- 
+
 #### Machine Learning
 - **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
 - **[Python/Decision Tree - Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python) (sklearn/decision tree)**
