@@ -70,6 +70,7 @@
 #### Tools
 
 - **[C - Prime Number](https://github.com/yuhexiong/prime-number-c)**
+- **[C - Compress file](https://github.com/yuhexiong/compress-file-c)**
 - **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
 - **[C++ - Calculator](https://github.com/yuhexiong/calculator-cpp)**
 - **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
