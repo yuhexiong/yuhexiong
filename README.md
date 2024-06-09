@@ -74,6 +74,7 @@
 - **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
 - **[C++ - Calculator](https://github.com/yuhexiong/calculator-cpp)**
 - **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
+- **[Python - Send Email SMTP](https://github.com/yuhexiong/send-email-smtp-python)**
 - **[HTML - Taiwan City District Selector](https://github.com/yuhexiong/taiwan-city-district-selector-html)**
 - **[JavaScript - Stream File Request](https://github.com/yuhexiong/stream-file-request-javascript)**
 
