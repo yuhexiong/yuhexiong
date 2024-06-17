@@ -42,7 +42,8 @@
 - **[Python/Flask - Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python) (map)**
 
 #### Data Pipeline
-- **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-datapipeline-flink-java) (kafka/Doris/mongoDB)**
+- **[GCP/Flink - Deploy Flink](https://github.com/yuhexiong/deploy-flink-gcp)**
+- **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-datapipeline-flink-java) (kafka/doris/mongoDB)**
 
 #### Machine Learning
 - **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
