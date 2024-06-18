@@ -4,8 +4,8 @@
 
 <div> 
 
-  <a href="https://github.com/KnlnKS/leetcode-stats">
-    <img height=200 src="https://leetcode-stats-six.vercel.app/?username=xiong1998" alt="KnlnKS's LeetCode stats" />
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+    <img height=200 src="https://leetcard.jacoblin.cool/xiong1998" alt="JacobLinCool LeetCode stats" />
   </a>
 
   <!-- <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
