@@ -43,7 +43,7 @@
 
 #### Data Pipeline
 - **[GCP/Flink - Deploy Flink](https://github.com/yuhexiong/deploy-flink-gcp)**
-- **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-datapipeline-flink-java) (kafka/doris/mongoDB)**
+- **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) (kafka/doris/mongoDB)**
 
 #### Machine Learning
 - **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
