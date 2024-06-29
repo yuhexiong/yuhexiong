@@ -45,6 +45,9 @@
 - **[GCP/Flink - Deploy Flink](https://github.com/yuhexiong/deploy-flink-gcp)**
 - **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) (kafka/doris/mongoDB)**
 
+#### Workflow
+- **[Python/Airflow - DAG Kafka Flink Doris](https://github.com/yuhexiong/airflow-dag-kafka-flink-doris-python)**
+
 #### Machine Learning
 - **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
 - **[Python/Decision Tree - Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python) (sklearn/decision tree)**
