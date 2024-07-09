@@ -40,7 +40,9 @@
 - **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/typeorm/cronJob/error handling)**
 - **[JavaScript/Vue3 - Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) (pie chart)**
 - **[Python/Flask - Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python) (map)**
-
+- **[TypeScript/Express - Message Board Api](https://github.com/yuhexiong/message-board-api-typescript) (postgres/typeorm)**
+- **[TypeScript/React -  Message Board Web](https://github.com/yuhexiong/message-board-web-react-typescript) (next.js)**
+- 
 #### Data Pipeline
 - **[GCP/Flink - Deploy Flink](https://github.com/yuhexiong/deploy-flink-gcp)**
 - **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) (kafka/doris/mongoDB)**
