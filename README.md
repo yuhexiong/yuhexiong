@@ -42,9 +42,8 @@
 - **[Python/Flask - Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python) (map)**
 - **[TypeScript/Express - Message Board Api](https://github.com/yuhexiong/message-board-api-typescript) (postgres/typeorm)**
 - **[TypeScript/React -  Message Board Web](https://github.com/yuhexiong/message-board-web-react-typescript) (next.js)**
-- 
+
 #### Data Pipeline
-- **[GCP/Flink - Deploy Flink](https://github.com/yuhexiong/deploy-flink-gcp)**
 - **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) (kafka/doris/mongoDB)**
 
 #### Workflow
@@ -73,6 +72,9 @@
 - **[Python - Project Gutenberg Crawling](https://github.com/yuhexiong/project-gutenberg-crawling-python) (requests/regex)**
 - **[Python - Youtube Crawling](https://github.com/yuhexiong/youtube-crawling-python) (selenium/yt-dlp)**
 
+#### Deployment
+- **[GCP/Flink - Deploy Flink](https://github.com/yuhexiong/deploy-flink-gcp-guide)**
+  
 #### Tools
 
 - **[C - Prime Number](https://github.com/yuhexiong/prime-number-c)**
