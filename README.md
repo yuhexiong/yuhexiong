@@ -1,4 +1,4 @@
-**Full Stack Developer & Data Engineer, primarily using Python. At work, as for BackEnd have written TypeScript and now using Go, for FrontEnd, have handled Vue and React. And for data use Java for Flink and Spark previously. Forcing on learning AI models and conducting research in Natural Language Processing.**
+**Full Stack Developer & Data Engineer and Analyst, primarily using Python. At work, as for BackEnd have written TypeScript and now using Go, for FrontEnd, have handled Vue and React. And for data use Java for Flink and Python Spark. Forcing on learning AI models and conducting research in Natural Language Processing.**
 
 ## Coding Stats
 
@@ -31,7 +31,8 @@
 - **[Go/Gin - Permission Api](https://github.com/yuhexiong/permission-api-golang) (mongodb/error code/viper/login/permission)**
 - **[Go/Gin - IPFS File Api](https://github.com/yuhexiong/ipfs-file-api-golang) (postgres/ipfs/file server)**
 - **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error code)**
-
+- **[Python/Django - GraphQl Api](https://github.com/yuhexiong/dynamic-schema-GraphQL-python-django) (doris/dynamic schema)**
+  
 #### FrontEnd
 - **[TypeScript/Vue3 - Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) (element plus)**
 - **[TypeScript/React - Bmi Calculator Web](https://github.com/yuhexiong/bmi-calculator-web-react-typescript)**
