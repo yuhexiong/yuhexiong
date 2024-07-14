@@ -8,10 +8,6 @@
     <img height=200 src="https://leetcard.jacoblin.cool/xiong1998" alt="JacobLinCool LeetCode stats" />
   </a>
 
-  <!-- <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
-    <img height=200 src="https://leetcard.jacoblin.cool/xiong1998" alt="LeetCode stats" />
-  </a> -->
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=10&size_weight=0.75&count_weight=0.25&hide=jupyter%20notebook&role=owner,collaborator&theme=graywhite" alt="Xiong's Language stats" />
   </a>
@@ -74,7 +70,7 @@
 - **[Python - Youtube Crawling](https://github.com/yuhexiong/youtube-crawling-python) (selenium/yt-dlp)**
 
 #### Deployment
-- **[GCP/Flink - Deploy Flink](https://github.com/yuhexiong/deploy-flink-gcp-guide)**
+- **[GCP/Flink - Deploy Flink Guide](https://github.com/yuhexiong/deploy-flink-gcp-guide)**
   
 #### Tools
 
@@ -83,7 +79,8 @@
 - **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
 - **[C++ - Calculator](https://github.com/yuhexiong/calculator-cpp)**
 - **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
-- **[Python - Send Email SMTP](https://github.com/yuhexiong/send-email-smtp-python)**
+- **[Go - Greeting GRPC](https://github.com/yuhexiong/greeting-grpc-golang) (protocol buffer)**
+- **[Python - Send Email SMTP](https://github.com/yuhexiong/send-email-smtp-python) (smtp)**
 - **[HTML - Taiwan City District Selector](https://github.com/yuhexiong/taiwan-city-district-selector-html)**
 - **[JavaScript - Stream File Request](https://github.com/yuhexiong/stream-file-request-javascript)**
 
