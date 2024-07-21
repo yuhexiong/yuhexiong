@@ -1,4 +1,4 @@
-**Full Stack Developer & Data Engineer and Analyst, primarily using Python. At work, as for BackEnd have written TypeScript and now using Go, for FrontEnd, have handled Vue and React. And for data use Java for Flink and Python Spark. Forcing on learning AI models and conducting research in Natural Language Processing.**
+**Full Stack Developer & Data Engineer and Analyst & DevOps, primarily using Python. At work, as for BackEnd have written TypeScript and now using Go, for FrontEnd, have handled Vue and React. And for data use Java for Flink and Python Spark. Forcing on learning AI models and conducting research in Natural Language Processing.**
 
 ## Coding Stats
 
@@ -16,7 +16,7 @@
 
 
 <details>
-  <summary><h2>Projects</h2></summary>
+  <summary><h2>Repositories</h2></summary>
 
 #### BackEnd
 - **[TypeScript/Express - Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (moment)**
@@ -62,6 +62,8 @@
 - **[Python/Latent Dirichlet Allocation - Topic Modeling](https://github.com/yuhexiong/topic-modeling-LatentDirichletAllocation-nlp-python) (word cloud)**
 - **[Python/CBOW - Word2Vec And PCA](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python) (pca/kmeans)**
 - **[Python/Roberta - Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-binary-classification-roberta-nlp-python) (finetune/chinese)**
+- **[Python/MistralLite - Ollama Custom Hugging Face Model](https://github.com/yuhexiong/ollama-hugging-face-mistralLite-python) (chinese)**
+- **[Python/Vanna AI - Flask UI Sales](https://github.com/yuhexiong/vanna-ai-flask-sales)**
 
 #### Web Crawling
 - **[Python - Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
@@ -70,8 +72,11 @@
 - **[Python - Youtube Crawling](https://github.com/yuhexiong/youtube-crawling-python) (selenium/yt-dlp)**
 
 #### Deployment
-- **[GCP/Flink - Deploy Flink Guide](https://github.com/yuhexiong/deploy-flink-gcp-guide)**
-  
+- **[Flink - Deploy Flink GCP Guide](https://github.com/yuhexiong/deploy-flink-gcp-guide)**
+- **[Hadoop - Deploy Hadoop Guide](https://github.com/yuhexiong/deploy-hadoop-guide)**
+- **[Doris - Deploy Doris Guide](https://github.com/yuhexiong/deploy-doris-guide)**
+- **[PostgreSQL - Deploy PostgreSQL PgAdmin Guide](https://github.com/yuhexiong/deploy-postgreSQL-pgadmin-guide)**
+
 #### Tools
 
 - **[C - Prime Number](https://github.com/yuhexiong/prime-number-c)**
