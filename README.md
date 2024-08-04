@@ -50,7 +50,7 @@
 - **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python)**
 - **[Python/Decision Tree - Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python)**
 - **[Python/Random Forest - Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python)**
-- **[Python/XGBClassifier - Bike Buyers](https://github.com/yuhexiong/bike-buyers-XGBClassifier-pythonn)**
+- **[Python/XGBClassifier - Bike Buyers](https://github.com/yuhexiong/bike-buyers-XGBClassifier-python)**
 - **[Python/XGBRegressor - Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) (grid search cv)**
 - **[Python/XGBRegressor & LightGBMRegressor - House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python)**
 - **[Python/Support Vector Classification - Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python)**
