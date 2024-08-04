@@ -47,12 +47,13 @@
 - **[Python/Airflow - DAG Kafka Flink Doris](https://github.com/yuhexiong/airflow-dag-kafka-flink-doris-python)**
 
 #### Machine Learning
-- **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) (sklearn/logistic regression)**
-- **[Python/Decision Tree - Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python) (sklearn/decision tree)**
-- **[Python/XGBRegressor - Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) (xgbRegressor/grid search cv)**
-- **[Python/Random Forest - Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python) (sklearn/random forest)**
-- **[Python/XGBRegressor & LightGBMRegressor - House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python) (xgbRegressor/lightGBMRegressor)**
-- **[Python/Support Vector Classification - Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python) (support vector classification)**
+- **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python)**
+- **[Python/Decision Tree - Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python)**
+- **[Python/Random Forest - Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python)**
+- **[Python/XGBClassifier - Bike Buyers](https://github.com/yuhexiong/bike-buyers-XGBClassifier-pythonn)**
+- **[Python/XGBRegressor - Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) (grid search cv)**
+- **[Python/XGBRegressor & LightGBMRegressor - House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python)**
+- **[Python/Support Vector Classification - Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python)**
 
 #### Deep Learning
 - **[Python/CNN - Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation/cnn)**
