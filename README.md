@@ -75,7 +75,7 @@
 #### Deployment
 - **[Flink - Deploy Flink GCP Guide](https://github.com/yuhexiong/deploy-flink-gcp-guide)**
 - **[Hadoop - Deploy Hadoop Guide](https://github.com/yuhexiong/deploy-hadoop-guide)**
-- **[Doris - Deploy Doris Guide](https://github.com/yuhexiong/deploy-doris-guide)**
+- **[Doris - Deploy Doris And Backup Guide](https://github.com/yuhexiong/deploy-doris-and-backup-guide)**
 - **[PostgreSQL - Deploy PostgreSQL PgAdmin Guide](https://github.com/yuhexiong/deploy-postgreSQL-pgadmin-guide)**
 
 #### Tools
