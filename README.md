@@ -42,6 +42,7 @@
 
 #### Data Pipeline
 - **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) (kafka/doris/mongoDB)**
+- **[Python/Spark - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-data-pipeline-spark-python) (kafka/doris)**
 
 #### Workflow
 - **[Python/Airflow - DAG Kafka Flink Doris](https://github.com/yuhexiong/airflow-dag-kafka-flink-doris-python)**
