@@ -27,7 +27,7 @@
 - **[Go/Gin - Permission Api](https://github.com/yuhexiong/permission-api-golang) (mongodb/error code/viper/login/permission)**
 - **[Go/Gin - IPFS File Api](https://github.com/yuhexiong/ipfs-file-api-golang) (postgres/ipfs/file server)**
 - **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error code)**
-- **[Python/Django - GraphQl Api](https://github.com/yuhexiong/dynamic-schema-GraphQL-python-django) (doris/dynamic schema)**
+- **[Python/Django - GraphQL Api](https://github.com/yuhexiong/dynamic-schema-GraphQL-python-django) (doris/dynamic schema)**
   
 #### FrontEnd
 - **[TypeScript/Vue3 - Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) (element plus)**
