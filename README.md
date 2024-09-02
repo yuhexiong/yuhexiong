@@ -96,5 +96,6 @@
 - **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
 - **[SQL - Command DDL/DML/DCL/TCL](https://github.com/yuhexiong/ddl-dml-dcl-tcl-commands-sql)**
 - **[C/C++/Python/Go/Java/TypeScript/JavaScript/MySQL - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
+- **[Machine Learning 2022 Spring](https://github.com/yuhexiong/machine-learning-2022-spring)**
 
 </details>
