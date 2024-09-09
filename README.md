@@ -1,4 +1,4 @@
-**Full Stack Developer, Data Engineer, Analyst, Scientist and DevOps, handling billions of records monthly, cleaning and analyzing data to generate AI reports for insights.**  
+**Graduated from Taipei First Girls High School and the Department of Mathematics at National Taiwan University. Work includes Full Stack Developer, Data Engineer, Analyst, Scientist, and DevOps roles, handling billions of records monthly, and cleaning and analyzing data to generate AI reports for insights.**  
 
 ## Skills
 
