@@ -1,4 +1,42 @@
-**Full Stack Developer & Data Engineer and Analyst & DevOps, primarily using Python. At work, as for BackEnd have written TypeScript and now using Go, for FrontEnd, have handled Vue and React. And for data use Java for Flink and Python Spark. Forcing on learning AI models and conducting research in Natural Language Processing.**
+**Full Stack Developer, Data Engineer, Analyst, Scientist and DevOps, handling billions of records monthly, cleaning and analyzing data to generate AI reports for insights.**  
+
+## Skills
+
+- **Programming Languages: C, C++, Java, Python, Go, TypeScript**
+- **Backend Development: TypeScript (Node.js), Python (Django/Flask), Go (Gin)**
+- **Frontend Development: Vue, React**
+- **Data Processing: Flink, Spark**
+- **Workflow: Airflow | Web Crawling: Selenium | Change Data Capture: Debezium**
+- **Data Visualization: Tableau**
+- **Databases: MySQL, MariaDB, PostgreSQL, MongoDB, Apache Doris**
+- **In-Memory Data Store: Redis | Message Quene: Apache Kafka**
+- **Big Data Framework: Apache Hadoop | DevOps: Google Cloud Platform**
+- **AI & Natural Language Processing: Sklearn, Tensorflow, Word2Vec, RoBERTa, Hugging Face, Ollama, Vanna AI**
+
+## Repositories
+
+- **BackEnd: [Express/Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) | [Express/Http File Api](https://github.com/yuhexiong/http-file-api-typescript) | [Express/Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) | [Express/Hospital Register Api](https://github.com/yuhexiong/hospital-register-api-typescript) | [Fiber/User Api](https://github.com/yuhexiong/user-api-golang) | [Gin/Permission Api](https://github.com/yuhexiong/permission-api-golang) | [Gin/IPFS File Api](https://github.com/yuhexiong/ipfs-file-api-golang) | [Django/Library Api](https://github.com/yuhexiong/library-api-python-django) | [Django/GraphQL Api](https://github.com/yuhexiong/dynamic-schema-GraphQL-python-django)**  
+
+- **FrontEnd: [Vue3/Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) | [React] [Bmi Calculator Web](https://github.com/yuhexiong/bmi-calculator-web-react-typescript)**  
+
+- **Full Stack: [Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) | [Vue3/Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) | [Message Board Api](https://github.com/yuhexiong/message-board-api-typescript) | [React/Message Board Web](https://github.com/yuhexiong/message-board-web-react-typescript) | [Flask/Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python)**  
+- **Data Pipeline: [Flink](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) | [Spark](https://github.com/yuhexiong/kafka-data-pipeline-spark-python)**  
+
+- **Workflow: [Airflow](https://github.com/yuhexiong/airflow-dag-kafka-flink-doris-python)**  
+
+- **Machine Learning: [Logistic Regression] [Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) | [Decision Tree] [Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python) | [Random Forest] [Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python) | [XGBClassifier] [Bike Buyers](https://github.com/yuhexiong/bike-buyers-XGBClassifier-python) | [XGBRegressor] [Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) | [XGBRegressor & LightGBMRegressor] [House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python) | [Support Vector Classification] [Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python)**  
+
+- **Deep Learning: [CNN] [Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) | [ResNet50] [Cat And Dog Classification](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python)**  
+
+- **Natural Language Processing: [Latent Dirichlet Allocation/Topic Modeling](https://github.com/yuhexiong/topic-modeling-LatentDirichletAllocation-nlp-python) | [Word2Vec/CBOW/PCA](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python) | [Roberta/Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-binary-classification-roberta-nlp-python) | [Ollama/Hugging Face](https://github.com/yuhexiong/ollama-hugging-face-mistralLite-python) | [Vanna AI](https://github.com/yuhexiong/vanna-ai-flask-sales)**  
+
+- **Web Crawling: [Popcat Click](https://github.com/yuhexiong/popcat-click-python) | [PTT Gossiping Crawling](https://github.com/yuhexiong/ptt-gossiping-crawling-python) | [Project Gutenberg Crawling](https://github.com/yuhexiong/project-gutenberg-crawling-python) | [Youtube Crawling](https://github.com/yuhexiong/youtube-crawling-python)**  
+
+- **Deployment: [Flink](https://github.com/yuhexiong/deploy-flink-gcp-guide) | [Hadoop](https://github.com/yuhexiong/deploy-hadoop-guide) | [Doris](https://github.com/yuhexiong/deploy-doris-and-backup-guide) | [Debezium](https://github.com/yuhexiong/deploy-debezium-guide) | [PostgreSQL](https://github.com/yuhexiong/deploy-postgreSQL-pgadmin-guide)**  
+
+- **Tools: [Prime Number](https://github.com/yuhexiong/prime-number-c) | [Compress file](https://github.com/yuhexiong/compress-file-c) | [Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp) | [Calculator](https://github.com/yuhexiong/calculator-cpp) | [Todo List](https://github.com/yuhexiong/todo-list-golang) | [Greeting GRPC](https://github.com/yuhexiong/greeting-grpc-golang) | [Send Email SMTP](https://github.com/yuhexiong/send-email-smtp-python) | [Taiwan City District Selector](https://github.com/yuhexiong/taiwan-city-district-selector-html) | [Stream File Request](https://github.com/yuhexiong/stream-file-request-javascript)**
+
+- **Notes: [Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java) | [SQL](https://github.com/yuhexiong/ddl-dml-dcl-tcl-commands-sql) | [LeetCode Solution](https://github.com/yuhexiong/leetCode-solve-and-explain) | [Machine Learning 2022 Spring](https://github.com/yuhexiong/machine-learning-2022-spring)**
 
 ## Coding Stats
 
@@ -13,89 +51,3 @@
   </a>
 
 </div>
-
-
-<details>
-  <summary><h2>Repositories</h2></summary>
-
-#### BackEnd
-- **[TypeScript/Express - Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) (moment)**
-- **[TypeScript/Express - Http File Api](https://github.com/yuhexiong/http-file-api-typescript) (file)**
-- **[TypeScript/Express - Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) (mariadb/typeorm/testing)**
-- **[TypeScript/Express - Hospital Register Api](https://github.com/yuhexiong/hospital-register-api-typescript) (mariadb/typeorm)**
-- **[Go/Fiber - User Api](https://github.com/yuhexiong/user-api-golang) (mongodb/testing/error code)**
-- **[Go/Gin - Permission Api](https://github.com/yuhexiong/permission-api-golang) (mongodb/error code/viper/login/permission)**
-- **[Go/Gin - IPFS File Api](https://github.com/yuhexiong/ipfs-file-api-golang) (postgres/ipfs/file server)**
-- **[Python/Django - Library Api](https://github.com/yuhexiong/library-api-python-django) (mysql/error code)**
-- **[Python/Django - GraphQL Api](https://github.com/yuhexiong/dynamic-schema-GraphQL-python-django) (doris/dynamic schema)**
-  
-#### FrontEnd
-- **[TypeScript/Vue3 - Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) (element plus)**
-- **[TypeScript/React - Bmi Calculator Web](https://github.com/yuhexiong/bmi-calculator-web-react-typescript)**
-
-#### Full Stack
-- **[TypeScript/Express - Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) (mariadb/typeorm/cronJob/error handling)**
-- **[JavaScript/Vue3 - Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) (pie chart)**
-- **[Python/Flask - Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python) (map)**
-- **[TypeScript/Express - Message Board Api](https://github.com/yuhexiong/message-board-api-typescript) (postgres/typeorm)**
-- **[TypeScript/React -  Message Board Web](https://github.com/yuhexiong/message-board-web-react-typescript) (next.js)**
-
-#### Data Pipeline
-- **[Java/Flink - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) (kafka/doris/mongoDB)**
-- **[Python/Spark - Data Pipeline Kafka](https://github.com/yuhexiong/kafka-data-pipeline-spark-python) (kafka/doris)**
-
-#### Workflow
-- **[Python/Airflow - DAG Kafka Flink Doris](https://github.com/yuhexiong/airflow-dag-kafka-flink-doris-python)**
-
-#### Machine Learning
-- **[Python/Logistic Regression - Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python)**
-- **[Python/Decision Tree - Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python)**
-- **[Python/Random Forest - Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python)**
-- **[Python/XGBClassifier - Bike Buyers](https://github.com/yuhexiong/bike-buyers-XGBClassifier-python)**
-- **[Python/XGBRegressor - Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) (grid search cv)**
-- **[Python/XGBRegressor & LightGBMRegressor - House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python)**
-- **[Python/Support Vector Classification - Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python)**
-
-#### Deep Learning
-- **[Python/CNN - Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) (tensorflow/data augmentation/cnn)**
-- **[Python/CNN/ResNet50 - Cat And Dog Classification](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python) (tensorflow/data augmentation/cnn/resNet50)**
-
-#### Natural Language Processing
-- **[Python/Latent Dirichlet Allocation - Topic Modeling](https://github.com/yuhexiong/topic-modeling-LatentDirichletAllocation-nlp-python) (word cloud)**
-- **[Python/CBOW - Word2Vec And PCA](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python) (pca/kmeans)**
-- **[Python/Roberta - Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-binary-classification-roberta-nlp-python) (finetune/chinese)**
-- **[Python/MistralLite - Ollama Custom Hugging Face Model](https://github.com/yuhexiong/ollama-hugging-face-mistralLite-python) (chinese)**
-- **[Python/Vanna AI - Flask UI Sales](https://github.com/yuhexiong/vanna-ai-flask-sales)**
-
-#### Web Crawling
-- **[Python - Popcat Click](https://github.com/yuhexiong/popcat-click-python) (selenium)**
-- **[Python - PTT Gossiping Crawling](https://github.com/yuhexiong/ptt-gossiping-crawling-python) (requests)**
-- **[Python - Project Gutenberg Crawling](https://github.com/yuhexiong/project-gutenberg-crawling-python) (requests/regex)**
-- **[Python - Youtube Crawling](https://github.com/yuhexiong/youtube-crawling-python) (selenium/yt-dlp)**
-
-#### Deployment
-- **[Flink - Deploy Flink GCP Guide](https://github.com/yuhexiong/deploy-flink-gcp-guide)**
-- **[Hadoop - Deploy Hadoop Guide](https://github.com/yuhexiong/deploy-hadoop-guide)**
-- **[Doris - Deploy Doris And Backup Guide](https://github.com/yuhexiong/deploy-doris-and-backup-guide)**
-- **[Debezium - Deploy Debezium Guide](https://github.com/yuhexiong/deploy-debezium-guide)**
-- **[PostgreSQL - Deploy PostgreSQL PgAdmin Guide](https://github.com/yuhexiong/deploy-postgreSQL-pgadmin-guide)**
-
-#### Tools
-
-- **[C - Prime Number](https://github.com/yuhexiong/prime-number-c)**
-- **[C - Compress file](https://github.com/yuhexiong/compress-file-c)**
-- **[C++ - Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp)**
-- **[C++ - Calculator](https://github.com/yuhexiong/calculator-cpp)**
-- **[Go - Todo List](https://github.com/yuhexiong/todo-list-golang)**
-- **[Go - Greeting GRPC](https://github.com/yuhexiong/greeting-grpc-golang) (protocol buffer)**
-- **[Python - Send Email SMTP](https://github.com/yuhexiong/send-email-smtp-python) (smtp)**
-- **[HTML - Taiwan City District Selector](https://github.com/yuhexiong/taiwan-city-district-selector-html)**
-- **[JavaScript - Stream File Request](https://github.com/yuhexiong/stream-file-request-javascript)**
-
-#### Notes
-- **[Java - Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java)**
-- **[SQL - Command DDL/DML/DCL/TCL](https://github.com/yuhexiong/ddl-dml-dcl-tcl-commands-sql)**
-- **[C/C++/Python/Go/Java/TypeScript/JavaScript/MySQL - LeetCode Solve And Explain](https://github.com/yuhexiong/leetCode-solve-and-explain)**
-- **[Machine Learning 2022 Spring](https://github.com/yuhexiong/machine-learning-2022-spring)**
-
-</details>
