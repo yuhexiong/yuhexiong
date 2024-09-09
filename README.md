@@ -4,10 +4,9 @@
 
 - **Programming Languages: C, C++, Java, Python, Go, TypeScript**
 - **Backend Development: TypeScript (Node.js), Python (Django/Flask), Go (Gin)**
-- **Frontend Development: Vue, React**
+- **Frontend Development: Vue, React | Data Visualization: Tableau**
 - **Data Processing: Flink, Spark**
 - **Workflow: Airflow | Web Crawling: Selenium | Change Data Capture: Debezium**
-- **Data Visualization: Tableau**
 - **Databases: MySQL, MariaDB, PostgreSQL, MongoDB, Apache Doris**
 - **In-Memory Data Store: Redis | Message Quene: Apache Kafka**
 - **Big Data Framework: Apache Hadoop | DevOps: Google Cloud Platform**
@@ -15,16 +14,14 @@
 
 ## Repositories
 
-- **BackEnd: [Http Time Api](https://github.com/yuhexiong/http-time-api-typescript) | [Http File Api](https://github.com/yuhexiong/http-file-api-typescript) | [Hospital Fee Api](https://github.com/yuhexiong/hospital-fee-api-typescript) | [Hospital Register Api](https://github.com/yuhexiong/hospital-register-api-typescript) | [User Api](https://github.com/yuhexiong/user-api-golang) | [Permission Api](https://github.com/yuhexiong/permission-api-golang) | [IPFS File Api](https://github.com/yuhexiong/ipfs-file-api-golang) | [Library Api](https://github.com/yuhexiong/library-api-python-django) | [GraphQL Api](https://github.com/yuhexiong/dynamic-schema-GraphQL-python-django)**  
+- **BackEnd: [Http Time](https://github.com/yuhexiong/http-time-api-typescript) | [Http File](https://github.com/yuhexiong/http-file-api-typescript) | [Hospital Fee](https://github.com/yuhexiong/hospital-fee-api-typescript) | [Hospital Register](https://github.com/yuhexiong/hospital-register-api-typescript) | [User](https://github.com/yuhexiong/user-api-golang) | [Permission](https://github.com/yuhexiong/permission-api-golang) | [IPFS File](https://github.com/yuhexiong/ipfs-file-api-golang) | [Library](https://github.com/yuhexiong/library-api-python-django) | [GraphQL](https://github.com/yuhexiong/dynamic-schema-GraphQL-python-django)**  
 
-- **FrontEnd: [Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) | [Bmi Calculator Web](https://github.com/yuhexiong/bmi-calculator-web-react-typescript)**  
+- **FrontEnd: [Personal Task](https://github.com/yuhexiong/personal-task-web-vue3-typescript) | [Bmi Calculator](https://github.com/yuhexiong/bmi-calculator-web-react-typescript)**  
 
-- **Full Stack: [Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) | [Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) | [Message Board Api](https://github.com/yuhexiong/message-board-api-typescript) | [Message Board Web](https://github.com/yuhexiong/message-board-web-react-typescript) | [Cafe Map Server](https://github.com/yuhexiong/cafe-map-server-flask-python)**  
-- **Data Pipeline: [Flink](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) | [Spark](https://github.com/yuhexiong/kafka-data-pipeline-spark-python)**  
+- **Full Stack: [Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) | [Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) | [Message Board Api](https://github.com/yuhexiong/message-board-api-typescript) | [Message Board Web](https://github.com/yuhexiong/message-board-web-react-typescript) | [Cafe Map](https://github.com/yuhexiong/cafe-map-server-flask-python)**  
+- **Data Pipeline: [Flink](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) | [Spark](https://github.com/yuhexiong/kafka-data-pipeline-spark-python) | Workflow: [Airflow](https://github.com/yuhexiong/airflow-dag-kafka-flink-doris-python)**  
 
-- **Workflow: [Airflow](https://github.com/yuhexiong/airflow-dag-kafka-flink-doris-python)**  
-
-- **Machine Learning: [Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) | [Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python) | [Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python) | [Bike Buyers](https://github.com/yuhexiong/bike-buyers-XGBClassifier-python) | [Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) | [House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python) | [Support Vector Classification] [Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python)**  
+- **Machine Learning: [Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) | [Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python) | [Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python) | [Bike Buyers](https://github.com/yuhexiong/bike-buyers-XGBClassifier-python) | [Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) | [House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python) | [Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python)**  
 
 - **Deep Learning: [Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) | [Cat And Dog Classification](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python)**  
 
