@@ -19,7 +19,8 @@
 - **FrontEnd: [Personal Task](https://github.com/yuhexiong/personal-task-web-vue3-typescript) | [Bmi Calculator](https://github.com/yuhexiong/bmi-calculator-web-react-typescript)**  
 
 - **Full Stack: [Accounting Api](https://github.com/yuhexiong/accounting-api-typescript) | [Accounting Web](https://github.com/yuhexiong/accounting-web-vue3-javascript) | [Message Board Api](https://github.com/yuhexiong/message-board-api-typescript) | [Message Board Web](https://github.com/yuhexiong/message-board-web-react-typescript) | [Cafe Map](https://github.com/yuhexiong/cafe-map-server-flask-python)**  
-- **Data Pipeline: [Flink](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) | [Spark](https://github.com/yuhexiong/kafka-data-pipeline-spark-python) | Workflow: [Airflow](https://github.com/yuhexiong/airflow-dag-kafka-flink-doris-python)**  
+- **Data Pipeline: [Flink](https://github.com/yuhexiong/kafka-data-pipeline-flink-java) | [Spark](https://github.com/yuhexiong/kafka-data-pipeline-spark-python)**
+- **Workflow: [Airflow](https://github.com/yuhexiong/airflow-dag-kafka-flink-doris-python)**  
 
 - **Machine Learning: [Titanic](https://github.com/yuhexiong/titanic-logistic-regression-python) | [Iris Classification](https://github.com/yuhexiong/iris-classification-decision-tree-python) | [Red Wine Quality](https://github.com/yuhexiong/red-wine-quality-random-forest-python) | [Bike Buyers](https://github.com/yuhexiong/bike-buyers-XGBClassifier-python) | [Avocado Prices](https://github.com/yuhexiong/avocado-prices-XGBRegressor-python) | [House Prices](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python) | [Breast Cancer Wisconsin](https://github.com/yuhexiong/breast-cancer-wisconsin-SVC-python)**  
 
