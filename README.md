@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=10&size_weight=0.75&count_weight=0.25&hide=jupyter%20notebook&role=owner,collaborator&theme=graywhite" alt="Xiong's Language stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuhexiong&layout=compact&langs_count=20&hide=jupyter%20notebook&role=owner,collaborator&theme=graywhite" alt="Xiong's Language stats" />
   </a>
 
 </div>
