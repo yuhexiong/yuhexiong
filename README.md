@@ -48,7 +48,7 @@
 
 - **Deep Learning: [Digit Recognition](https://github.com/yuhexiong/digit-recognition-CNN-python) | [Cat And Dog Classification](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python)**  
 
-- **Natural Language Processing: [Topic Modeling](https://github.com/yuhexiong/topic-modeling-LatentDirichletAllocation-nlp-python) | [Word2Vec/PCA](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python) | [Roberta/Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-binary-classification-roberta-nlp-python) | [Ollama/Hugging Face](https://github.com/yuhexiong/ollama-hugging-face-mistralLite-python) | [Vanna AI](https://github.com/yuhexiong/vanna-ai-flask-sales)**  
+- **Natural Language Processing: [Topic Modeling](https://github.com/yuhexiong/topic-modeling-LatentDirichletAllocation-nlp-python) | [Word2Vec/PCA](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python) | [Roberta/Sentiment Analysis](https://github.com/yuhexiong/sentiment-analysis-binary-classification-roberta-nlp-python) | [Ollama/Hugging Face](https://github.com/yuhexiong/ollama-hugging-face-mistralLite-python) | [Vanna AI](https://github.com/yuhexiong/vanna-ai-flask-sales) | [Llama Index](https://github.com/yuhexiong/gpt-llama-index-rag-python)**  
 
 - **Web Crawling: [Popcat Click](https://github.com/yuhexiong/popcat-click-python) | [PTT Gossiping Crawling](https://github.com/yuhexiong/ptt-gossiping-crawling-python) | [Project Gutenberg Crawling](https://github.com/yuhexiong/project-gutenberg-crawling-python) | [Youtube Crawling](https://github.com/yuhexiong/youtube-crawling-python)**  
 
