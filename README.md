@@ -11,12 +11,13 @@
 - **Programming Languages: C, C++, Java, Python, Go, TypeScript, PHP**
 - **Backend Development: TypeScript (Node.js), Python (Django/Flask), Go (Gin)**
 - **Frontend Development: Vue, React | Data Visualization: Tableau**
-- **Data Processing: Flink, Spark**
-- **Workflow: Airflow | Web Crawling: Selenium | Change Data Capture: Debezium**
-- **Databases: MySQL, MariaDB, PostgreSQL, MongoDB, Apache Doris**
+- **Data Processing: Apache Flink, Apache Spark**
+- **Workflow: Apache Airflow | Web Crawling: Selenium | Change Data Capture: Debezium**
+- **Databases: MySQL, MariaDB, PostgreSQL, MongoDB**
+- **Data Lake/Warehouse: Apache Doris, Apache Iceberg**
 - **In-Memory Data Store: Redis | Message Quene: Apache Kafka**
 - **Big Data Framework: Apache Hadoop | DevOps: Google Cloud Platform**
-- **AI & Natural Language Processing: Sklearn, Tensorflow, Word2Vec, RoBERTa, Hugging Face, Ollama, Vanna AI**
+- **AI & Natural Language Processing: Sklearn, Tensorflow, Word2Vec, RoBERTa, Ollama, Vanna AI, Llama Index, LangChain**
 
 ## Coding Stats
 
@@ -52,7 +53,7 @@
 
 - **Web Crawling: [Popcat Click](https://github.com/yuhexiong/popcat-click-python) | [PTT Gossiping Crawling](https://github.com/yuhexiong/ptt-gossiping-crawling-python) | [Project Gutenberg Crawling](https://github.com/yuhexiong/project-gutenberg-crawling-python) | [Youtube Crawling](https://github.com/yuhexiong/youtube-crawling-python)**  
 
-- **Deployment: [Docker Registry](https://github.com/yuhexiong/deploy-private-docker-registry-guide) | [Flink](https://github.com/yuhexiong/deploy-flink-gcp-guide) | [Hadoop](https://github.com/yuhexiong/deploy-hadoop-guide) | [Doris](https://github.com/yuhexiong/deploy-doris-and-backup-guide) | [Kafka](https://github.com/yuhexiong/deploy-kafka-and-ui-guide) | [Debezium](https://github.com/yuhexiong/deploy-debezium-guide) | [PostgreSQL](https://github.com/yuhexiong/deploy-postgreSQL-pgadmin-guide) | [PyInstaller Image](https://github.com/yuhexiong/pyinstaller-build-binary-docker-image-guide)**  
+- **Deployment: [Docker Registry](https://github.com/yuhexiong/deploy-private-docker-registry-guide) | [Flink](https://github.com/yuhexiong/deploy-flink-gcp-guide) | [Hadoop](https://github.com/yuhexiong/deploy-hadoop-guide) | [Doris](https://github.com/yuhexiong/deploy-doris-and-backup-guide) | [Kafka](https://github.com/yuhexiong/deploy-kafka-and-ui-guide) | [Debezium](https://github.com/yuhexiong/deploy-debezium-guide) | [PostgreSQL](https://github.com/yuhexiong/deploy-postgreSQL-pgadmin-guide) | [PyInstaller Image](https://github.com/yuhexiong/pyinstaller-build-binary-docker-image-guide) | [Trino Iceberg Hive Metastore MinIO](https://github.com/yuhexiong/deploy-trino-iceberg-hive-metastore-minio-guide)**  
 
 - **Tools: [Prime Number](https://github.com/yuhexiong/prime-number-c) | [Compress file](https://github.com/yuhexiong/compress-file-c) | [Random English Name Generator](https://github.com/yuhexiong/random-english-name-generator-cpp) | [Calculator](https://github.com/yuhexiong/calculator-cpp) | [Todo List](https://github.com/yuhexiong/todo-list-golang) | [Greeting GRPC](https://github.com/yuhexiong/greeting-grpc-golang) | [Send Email SMTP](https://github.com/yuhexiong/send-email-smtp-python) | [Kafka To CSV](https://github.com/yuhexiong/kafka-to-csv-converter-python)  | [Kafka Data Generator](https://github.com/yuhexiong/kafka-fake-data-generator)  | [LDAP Login](https://github.com/yuhexiong/ldap-login-python) | [Taiwan City District Selector](https://github.com/yuhexiong/taiwan-city-district-selector-html) | [Stream File Request](https://github.com/yuhexiong/stream-file-request-javascript) | [CORS Test Request](https://github.com/yuhexiong/cors-test-request-javascript) | [Google Apps Script Monitor Sheet](https://github.com/yuhexiong/google-apps-script-monitor-sheet-javascript) | [Json To CSV](https://github.com/yuhexiong/json-to-csv-groovy) | [Fun Facts Streamlit](https://github.com/yuhexiong/fun-facts-streamlit-python)**
 
