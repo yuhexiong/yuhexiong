@@ -2,8 +2,7 @@
 **Graduated from Taipei First Girls High School and the Department of Mathematics at National Taiwan University. Work includes Full Stack Developer, Data Engineer, Analyst, Scientist, and DevOps roles, handling billions of records monthly, and cleaning and analyzing data to generate AI reports for insights.**  
 
 **畢業於北一女中及臺大數學，擁有兩年軟體工程相關工作經驗。擅長多種程式語言，工作內容涵蓋全端開發、資料工程及分析、資料科學及 DevOps，每月處理億級別的資料量，藉由資料清理、分析並生成 AI 報告，提供商業洞見。  
-希望將學習與工作所獲得的知識與經驗記錄在 GitHub（但由於 AI 相關專案多涉及特定領域，部分內容可能無法公開）。  
-具備接案經驗，歡迎聯絡合作（限定臺灣），所有接案皆依法簽訂正式合約並合法報稅: yuhexiong871210@gmail.com。**  
+希望將學習與工作所獲得的知識與經驗記錄在 GitHub。  具備接案經驗，歡迎聯絡合作（限定臺灣），所有接案皆依法簽訂正式合約並合法報稅: yuhexiong871210@gmail.com。**  
 
 
 ## Skills
