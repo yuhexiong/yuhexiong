@@ -113,13 +113,14 @@
   - [Kafka To CSV (Python)](https://github.com/yuhexiong/kafka-to-csv-converter-python)
   - [Kafka Data Generator (Python)](https://github.com/yuhexiong/kafka-fake-data-generator)
   - [LDAP Login (Python)](https://github.com/yuhexiong/ldap-login-python)
+  - [View Dependency Resolver (Python)](https://github.com/yuhexiong/view-dependency-resolver-python)
+  - [Fun Facts Streamlit (Python)](https://github.com/yuhexiong/fun-facts-streamlit-python)
   - [Taiwan City District Selector (HTML)](https://github.com/yuhexiong/taiwan-city-district-selector-html)
   - [Stream File Request (JavaScript)](https://github.com/yuhexiong/stream-file-request-javascript)
   - [CORS Test Request (JavaScript)](https://github.com/yuhexiong/cors-test-request-javascript)
   - [Multi Request Stress Test (JavaScript)](https://github.com/yuhexiong/multi-request-stress-test-javascript)
   - [Google Apps Script Monitor Sheet (JavaScript)](https://github.com/yuhexiong/google-apps-script-monitor-sheet-javascript)
   - [Json To CSV (Groovy)](https://github.com/yuhexiong/json-to-csv-groovy)
-  - [Fun Facts Streamlit (Python)](https://github.com/yuhexiong/fun-facts-streamlit-python)
 
 
 ### Notes
