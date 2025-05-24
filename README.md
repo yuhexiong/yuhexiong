@@ -31,4 +31,16 @@
 
 ## Repositories
 
-**Please refer to [repositories.md](./repositories.md)**
+- **[Backend] [Permission API](https://github.com/yuhexiong/permission-api-golang) (Go, Gin)**
+- **[Backend] [Library API](https://github.com/yuhexiong/library-api-python-django) (Python, Django)**
+- **[Frontend] [Personal Task Web](https://github.com/yuhexiong/personal-task-web-vue3-typescript) (TypeScript, Vue 3)**
+- **[Data Pipeline] [Kafka Flink Structured Data Pipeline](https://github.com/yuhexiong/kafka-data-pipeline-structured-flink-java) (Java)**
+- **[Deep Learning] [Digit Recognition CNN](https://github.com/yuhexiong/digit-recognition-CNN-python) (Python)**
+- **[Deep Learning] [Cat And Dog Classification CNN ResNet50](https://github.com/yuhexiong/cat-and-dog-classification-CNN-ResNet50-python) (Python)**
+- **[Natural Language Processing] [Word2Vec PCA CBOW](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python) (Python)**
+- **[Natural Language Processing] [LangChain Text To SQL Prompt RAG Streamlit](https://github.com/yuhexiong/llm-langchain-text-to-sql-streamlit-python) (Python)**
+- **[Note] [LeetCode Solution](https://github.com/yuhexiong/leetCode-solve-and-explain)**
+
+
+
+**For the complete list of repositories, please refer to [repositories.md](./repositories.md)**
