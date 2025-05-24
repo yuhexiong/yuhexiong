@@ -1,11 +1,12 @@
 ## Repositories
 
-Some repositories are quite old or basic practice projects and are not recommended for reference. Please focus on the pinned repositories.  
+Some repositories are quite old or basic practice projects and are not recommended for reference.  
+Please focus on the pinned repositories.  
 
 ### Backend
 📌 [Permission API](https://github.com/yuhexiong/permission-api-golang) (Go, Gin)  
 📌 [Library API](https://github.com/yuhexiong/library-api-python-django) (Python, Django)  
-📜 [Kafka Timestamp Fetch API](https://github.com/yuhexiong/kafka-timestamp-fetch-api-python-flask) (Python, Flask)
+📜 [Kafka Timestamp Fetch API](https://github.com/yuhexiong/kafka-timestamp-fetch-api-python-flask) (Python, Flask)  
 📜 [Spark Submit API](https://github.com/yuhexiong/raw-sql-spark-submit-api-python-flask) (Python, Flask)  
 📜 [GraphQL API](https://github.com/yuhexiong/dynamic-schema-graphql-python-django) (Python, Django)  
 📜 [Ninja API](https://github.com/yuhexiong/ninja-python-django) (Python, Django)  
@@ -67,7 +68,7 @@ Some repositories are quite old or basic practice projects and are not recommend
 ### Natural Language Processing
 📌 [LangChain Text To SQL Prompt RAG Streamlit](https://github.com/yuhexiong/llm-langchain-text-to-sql-streamlit-python) (Python)  
 📌 [Word2Vec PCA CBOW](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python) (Python)  
-📜 [LangChain Weather Agent](https://github.com/yuhexiong/llm-langchain-weather-agent) (Python)
+📜 [LangChain Weather Agent](https://github.com/yuhexiong/llm-langchain-weather-agent) (Python)  
 📜 [Llama Index RAG](https://github.com/yuhexiong/gpt-llama-index-rag-python) (Python)  
 📜 [Vanna AI Sales](https://github.com/yuhexiong/vanna-ai-flask-sales) (Python, Flask)  
 📜 [Ollama Hugging Face MistralLite](https://github.com/yuhexiong/ollama-hugging-face-mistralLite-python) (Python)  
@@ -119,7 +120,7 @@ Some repositories are quite old or basic practice projects and are not recommend
 
 ### Notes
 📌 [LeetCode Solution](https://github.com/yuhexiong/leetCode-solve-and-explain)  
-📜 [Machine Learning Lecture Note](https://github.com/yuhexiong/machine-learning-lecture-note)
+📜 [Machine Learning Lecture Note](https://github.com/yuhexiong/machine-learning-lecture-note)  
 📜 [Poetry](https://github.com/yuhexiong/poetry-python)  
 📜 [Object Oriented Programming](https://github.com/yuhexiong/object-oriented-programming-java) (Java)  
 📜 [SQL](https://github.com/yuhexiong/ddl-dml-dcl-tcl-commands-sql)  
